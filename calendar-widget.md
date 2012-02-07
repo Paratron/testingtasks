@@ -48,6 +48,7 @@ You can use any JS framework you want to solve this task.
 ----
 
 Optional bonus points:
+
  * Make multiple, separate instances of the calendar possible.
  * Make the JSON data be updateable at any time.
  * Make the widget framework agnostic.
