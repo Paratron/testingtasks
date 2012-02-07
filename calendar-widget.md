@@ -38,7 +38,7 @@ First parameter: timestamp (UNIX) of the clicked day.
 Second parameter: Either an array of events happening at this day, or null.    
 
 
-Its actually not clearly decided where exactly the calender will be implemented. It could either be in 
+Its actually not clearly decided where exactly the calendar will be implemented. It could either be in 
 a sidebar (250px width) or directly in the content area (600px width), so the calendar must adapt to the 
 surrounding DOM element.    
 The calendar must be fully styleable by CSS and must not break the surrounding styles of the application.
